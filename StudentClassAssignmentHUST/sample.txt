@@ -30,6 +30,7 @@
 29	7	3
 30	7	4
 -1
+#<id_lop_mon>	<id_mon>	<sl_max>	<kieu_lop (0: LT, 1: BT, 2: TN, 3: LT+BT)>	<id_lop_di_kem>   
 0	0	2	0	0		
 1	0	3	1	0
 2	0	6	2	2
